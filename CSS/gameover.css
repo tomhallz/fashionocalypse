@@ -1,18 +1,18 @@
 h1 {
-    font-family: 'Share Tech';
+    font-family: 'Bree Serif', serif;
     font-size: 50px;
     text-align: center;
 }
 p {
-    font-family: 'Share Tech';
+    font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     text-align: center;
 }
 
 button {
-    color: red;
+    color: #3F51B5;
     font-size: 50px;
-    font-family: 'Share Tech';
+    font-family: 'Open Sans', sans-serif;
 }
 body {
     text-align: center;
